@@ -215,31 +215,3 @@ npm run build
 ```
 
 The build artifacts will be stored in the `dist/` directory.
-
-## 🧪 Testing
-
-This is a UI implementation with mock data. For testing:
-1. Try all three roles (Admin, Team Lead, Employee)
-2. Navigate through all modules
-3. Test responsive design on different screen sizes
-4. Verify form submissions (mock alerts)
-
-## 🔮 Future Enhancements
-
-- [ ] Dark mode toggle
-- [ ] Real API integration
-- [ ] Advanced filtering and sorting
-- [ ] Employee performance tracking
-- [ ] Notifications system
-- [ ] Export to PDF/Excel functionality
-- [ ] Multi-language support
-
-## 📝 Assignment Evaluation Points
-
-✅ **Application Structure**: Clean, modular, scalable architecture  
-✅ **UI Clarity & UX**: Premium design with intuitive navigation  
-✅ **Role-Based Flows**: Complete implementation for all 3 roles  
-✅ **Code Quality**: Reusable components, consistent patterns  
-✅ **Real Product Thinking**: Production-ready UI with business logic
-
-**Note**: This is a UI-only implementation using mock data. All interactions (login, leave applications, etc.) are simulated for demonstration purposes.
